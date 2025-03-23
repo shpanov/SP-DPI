@@ -1,4 +1,7 @@
 .idea/
 .venv/
+build/
+dist/
 Assets/Archive/SP-DPI.zip
 PyInstaller.txt
+SP-DPI.spec
